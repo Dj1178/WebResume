@@ -1,1 +1,1 @@
-# WebResume
+# WebResume by Daniel Jazowski
