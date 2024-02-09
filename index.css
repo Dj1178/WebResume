@@ -1,13 +1,13 @@
 
 ul {
-    list-style-type: disc; /* choose the bullet style */
+    list-style-type: disc; 
 }
 .info li {
-    float: left; /* make the list items horizontal */
-    margin-right: 10px; /* add some space between them */
+    display:inline;
+    margin-right: 15px; 
 }
 li:first-child {
-    list-style-type: none; /* remove the bullet from the first item */
+    list-style-type:none; 
 }
 .container{
     text-align: center;
