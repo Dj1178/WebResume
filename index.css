@@ -9,6 +9,6 @@ ul {
 li:first-child {
     list-style-type: none; /* remove the bullet from the first item */
 }
-.name{
+.container{
     text-align: center;
 }
